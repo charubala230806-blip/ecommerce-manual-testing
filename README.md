@@ -1,52 +1,82 @@
 # E-commerce Manual Testing Portfolio
 
-## Project overview
-This portfolio demonstrates a structured manual testing approach for a sample e-commerce application. It covers login, product browsing, cart management, and checkout.
+## About This Project
 
-> **Important:** This is a sample portfolio project. Test scenarios and defect examples are illustrative until they are executed against a real demo application. Do not present sample results or defects as observed facts.
+This project demonstrates my manual software testing skills using a sample e-commerce application. It covers functional testing of login, product browsing, shopping cart, and checkout workflows.
 
-## Objectives
-- Design positive, negative, boundary, and validation test cases.
-- Document test execution clearly and consistently.
-- Write reproducible defect reports.
-- Summarize testing progress and release risks.
+**Project type:** Manual Testing  
+**Current stage:** Test documentation and test case preparation  
+**Testing approach:** Positive, negative, boundary-value, and validation testing
 
-## Scope
-**In scope**
+## Project Objectives
+
+- Design clear and reusable test cases.
+- Validate application behavior against expected results.
+- Identify and document defects with reproducible steps.
+- Practice test execution, regression testing, and reporting.
+- Maintain testing documentation using GitHub.
+
+## Testing Scope
+
+### In Scope
 - Login and logout
 - Product listing and product details
-- Cart add/update/remove behavior
+- Shopping cart operations
 - Checkout form validation
 - Order confirmation flow
 
-**Out of scope**
-- Payment processing with real money
-- Production systems or real customer data
-- Security penetration testing and performance testing
+### Out of Scope
+- Real payment transactions
+- Production systems and real customer data
+- Performance and penetration testing
 
-## Test approach
-1. Review requirements and identify test conditions.
-2. Prepare test data and test cases.
-3. Execute tests on an authorized demo application.
-4. Record actual results and evidence.
-5. Log reproducible defects.
-6. Retest fixes and run relevant regression tests.
-7. Publish a test summary.
+## Testing Deliverables
 
-## Test environment
-- Application: To be selected (use an authorized demo application)
-- Browser: Record the browser and version used
-- Operating system: Record OS and version
-- Test date/build: Record before execution
+| File | Description |
+|---|---|
+| `test-plan.md` | Testing scope, strategy, risks, and criteria |
+| `test-cases.csv` | Test scenarios, steps, and expected results |
+| `bug-reports.md` | Defect report template and practice examples |
+| `test-summary-report.md` | Test execution summary template |
 
-## Repository contents
-- `test-plan.md` — scope, approach, risks, entry/exit criteria
-- `test-cases.csv` — structured test cases and execution fields
-- `bug-reports.md` — defect report examples/template
-- `test-summary-report.md` — execution summary template
+## Testing Methodology
 
-## Status
-Planning/documentation starter kit. Update execution statuses only after performing the tests.
+1. Review requirements and identify test scenarios.
+2. Prepare test cases and test data.
+3. Execute tests in an authorized demo environment.
+4. Compare actual results with expected results.
+5. Record reproducible defects and supporting evidence.
+6. Retest fixes and perform regression testing.
+7. Prepare a test summary report.
+
+## Skills Demonstrated
+
+- Manual and functional testing
+- Positive and negative testing
+- Boundary-value analysis
+- Test case design
+- Defect reporting
+- Regression testing
+- Test documentation
+- GitHub fundamentals
+
+## Test Environment
+
+- Application: To be selected
+- Browser and version: To be recorded
+- Operating system: To be recorded
+- Execution status: Not yet executed
+
+## Project Status
+
+**In progress:** Initial testing documentation and sample test cases are being prepared. Execution results and confirmed defects will be added after testing a suitable demo application.
+
+> Sample defect scenarios are illustrative examples, not confirmed application defects. Test results will be reported only after execution.
 
 ## Author
-Add your name or professional profile link here if you want to.
+
+**Charubala**
+
+GitHub: [charubala230806-blip](https://github.com/charubala230806-blip)
+
+QA professional building practical skills in manual testing, test design, defect reporting, and software quality assurance.
